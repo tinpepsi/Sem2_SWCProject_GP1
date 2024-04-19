@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ReceiptFrame
+comment1.params=placeBox\ place2Box\ dateBox\ date2Box\ monthBox\ month2Box\ time\ TicketTypeBox\ adultQTY\ childQTY\ infantQTY\ name\ phoneNum\ email\ address\ total_ticket_price\ carryOn\ checked\ totalCost\ totalPrice
+comment1.target=ReceiptFrame(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3
